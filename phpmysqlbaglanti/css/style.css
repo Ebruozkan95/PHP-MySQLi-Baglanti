@@ -1,0 +1,6 @@
+@font-face {font-family:"Arial" 
+!important;src:url(Arial) 
+format('truetype');}
+body {background-color:#fff !important;
+    font-family:"Exo Medium" !important;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";color:#13224D !important;}
